@@ -1,0 +1,5 @@
+a=input()
+b=len(a)
+apl=str(a)
+bpl=str(b)
+print("Футбольная команда", apl, "имеет длину", bpl, "символов")

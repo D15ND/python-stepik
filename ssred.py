@@ -1,0 +1,7 @@
+a, b, c=int(input()), int(input()), int(input())
+smax=max(a, b, c)
+smin=min(a, b, c)
+ssred=(a+b+c)-(smax+smin)
+print(smax)
+print(ssred)
+print(smin)

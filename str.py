@@ -1,0 +1,6 @@
+st1=len("qwe")
+st2=len("     ")
+st3=len("a b")
+print(st1)
+print(st2)
+print(st3)
